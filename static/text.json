@@ -1,0 +1,27 @@
+{
+	"tasks": [{
+		"assignedto": "Naveen1",
+		"task-desc": "Adding interactions",
+		"color":"red",
+		"img": "https://organicthemes.com/demo/profile/files/2012/12/profile_img.png"
+		"status": 0,
+	}, {
+		"assignedto": "Naveen1",
+		"task-desc": "Adding interactions2",
+		"color":"yellow",
+		"img": "https://organicthemes.com/demo/profile/files/2012/12/profile_img.png"
+		"status": 1,
+	}, {
+		"assignedto": "Naveen2",
+		"task-desc": "Adding interactions3",
+		"color":"blue",
+		"img": "https://organicthemes.com/demo/profile/files/2012/12/profile_img.png"
+		"status": 2,
+	}, {
+		"assignedto": "Naveen3",
+		"task-desc": "Adding interactions4",
+		"color":"green",
+		"img": "https://organicthemes.com/demo/profile/files/2012/12/profile_img.png"
+		"status": 3,
+	}]
+}
