@@ -288,6 +288,7 @@ header {
 	height:auto;
 	display: inline-block;
 	margin:auto 2%;
+	vertical-align: top;
 }
 .content-inner .box:first-child{
 	margin-left:0;
