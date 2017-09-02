@@ -46,6 +46,9 @@
 		text-align:center;
 		float:none;
 	}
+	.blockHead{
+		margin:20px 0;
+	}
 	.content-inner .box:first-child{
 		margin-left:2%;
 	}
